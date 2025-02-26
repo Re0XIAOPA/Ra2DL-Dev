@@ -12,7 +12,7 @@ tagline: 红色警戒下载站的开发文档，有关于开发下载站的开�
 actions:
   - text: 开始
 #    icon: lightbulb
-    link: ./install/
+    link: ./dev-env/
     type: primary
 
   - text: Github
