@@ -153,10 +153,10 @@ export default hopeTheme({
     // You MUST generate and use your own comment service in production.
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "Re0XIAOPA/Ra2DL-Dev",
+      repoId: "R_kgDON_WDYg",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDON_WDYs4CnWlw",
     },
 
     components: {

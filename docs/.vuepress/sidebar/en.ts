@@ -6,19 +6,15 @@ export const enSidebar = sidebar({
       text: "install",
       icon: "laptop-code",
       prefix: "install/",
-      link: "install/",
+      collapsible: true,
       children: "structure",
     },
     {
-      text: "Docs",
+      text: "Guide",
       icon: "book",
       prefix: "guide/",
+      collapsible: true,
       children: "structure",
-    },
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
     },
   ],
 });

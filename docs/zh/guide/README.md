@@ -3,14 +3,5 @@ title: 开发指南
 icon: lightbulb
 ---
 
-## 功能亮点
+<Catalog />
 
-### Bar
-
-- [baz](bar/baz.md)
-- ...
-
-### Foo
-
-- [ray](foo/ray.md)
-- ...
