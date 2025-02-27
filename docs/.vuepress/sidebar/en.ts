@@ -3,9 +3,9 @@ import { sidebar } from "vuepress-theme-hope";
 export const enSidebar = sidebar({
   "/": [
     {
-      text: "install",
-      icon: "laptop-code",
-      prefix: "install/",
+      text: "Development",
+      icon: "house",
+      prefix: "dev-env/",
       collapsible: true,
       children: "structure",
     },
