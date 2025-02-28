@@ -35,7 +35,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: `<a href="https://github.com/Re0XIAOPA/Ra2DL-Dev" target="_blank" rel="noopener noreferrer">GitHub</a>`,
 
       displayFooter: true,
 
@@ -54,7 +54,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: `<a href="https://github.com/Re0XIAOPA/Ra2DL-Dev" target="_blank" rel="noopener noreferrer">GitHub</a>`,
 
       displayFooter: true,
 
