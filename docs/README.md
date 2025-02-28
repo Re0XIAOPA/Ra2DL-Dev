@@ -12,7 +12,7 @@ tagline: Development and design documents for the Red Alert download station.
 actions:
   - text: Get started
 #    icon: lightbulb
-    link: ./install/
+    link: ./dev-env/
     type: primary
 
   - text: Github
