@@ -11,8 +11,9 @@ This document is for learning purposes only.
 
 | Icon | Name | Features | Official Website |
 | ------ | ------ | ------ | ----- |
-| ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) | Visual Studio Code | Lightweight, rich plugin ecosystem  | [官网下载](https://code.visualstudio.com/) |
-| ![WebStorm](https://img.icons8.com/color/48/webstorm.png) | WebStorm | Comprehensive features, powerful intelligent suggestions | [官网下载](https://www.jetbrains.com/webstorm/) |
+| [VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) | Visual Studio Code | Lightweight, rich plugin ecosystem  | [官网下载](https://code.visualstudio.com/) |
+| [WebStorm](https://img.icons8.com/color/48/webstorm.png) | WebStorm | Comprehensive features, powerful intelligent suggestions | [官网下载](https://www.jetbrains.com/webstorm/) |
+| [HBuilder](https://qiniu-ecdn.dcloud.net.cn/uploads/images/hbuilderx/icon/hbuilderx_icon@2x.png) | HBuilderX | Lightweight and rich plug-in ecosystem | [官网下载](https://www.dcloud.io/hbuilderx.html) |
 
 ::: tip Recommendation
 Recommended for beginners [VS Code](https://code.visualstudio.com/)  | Recommended for enterprise-level projects [WebStorm](https://www.jetbrains.com/webstorm/)
