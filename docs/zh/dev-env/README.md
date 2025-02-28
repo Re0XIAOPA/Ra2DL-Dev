@@ -7,14 +7,14 @@ icon: gear
 :::
 ## IDE 选择
 
-| 图标 | 名称 | 特点 | 官网 |
-| ------ | ------ | ------ | ----- |
-| [VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) | Visual Studio Code | 轻量级、插件生态丰富  | [官网下载](https://code.visualstudio.com/) |
-| [WebStorm](https://img.icons8.com/color/48/webstorm.png) | WebStorm | 功能全面、智能提示强大 | [官网下载](https://www.jetbrains.com/webstorm/) |
-| [HBuilder](https://qiniu-ecdn.dcloud.net.cn/uploads/images/hbuilderx/icon/hbuilderx_icon@2x.png) | HBuilderX | 轻量级、插件生态丰富 | [官网下载](https://www.dcloud.io/hbuilderx.html) |
+| 图标                                                                      | 名称                 | 特点           | 官网                                           |
+|-------------------------------------------------------------------------|--------------------|--------------|----------------------------------------------|
+| ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) | Visual Studio Code | 轻量级、插件生态丰富   | [官网下载](https://code.visualstudio.com/)       |
+| ![WebStorm](https://img.icons8.com/color/48/webstorm.png)               | WebStorm           | 功能全面、智能提示强大 | [官网下载](https://www.jetbrains.com/webstorm/)  |
+| ![HBuilderX](assets/hbuilderx_icon.svg)                                 | HBuilderX          | 轻量级、插件生态丰富   | [官网下载](https://www.dcloud.io/hbuilderx.html) |
 
 ::: tip 选择建议
-新手推荐使用 [VS Code](https://code.visualstudio.com/)  | 企业级项目推荐 [WebStorm](https://www.jetbrains.com/webstorm/)
+新手推荐使用 [VS Code](https://code.visualstudio.com/) 或者 [HBuilderX](https://www.dcloud.io/hbuilderx.html)  | 企业级项目推荐 [WebStorm](https://www.jetbrains.com/webstorm/)
 
 :::
 
